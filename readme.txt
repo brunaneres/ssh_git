@@ -1,1 +1,1 @@
-Documento para primeiro comit no repositório
+Documento para primeiro commit no repositório
